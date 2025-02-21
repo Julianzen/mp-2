@@ -5,7 +5,7 @@ import {Character} from "./interfaces/SWdata.ts";
 
 
 const ParentDiv=styled.div`
-     background-image: url("./public/porg.png");
+     background-image: url("/porg.png");
 `;
 const MainDiv=styled.div`
     style: flex;
