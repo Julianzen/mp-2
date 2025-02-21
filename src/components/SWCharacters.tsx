@@ -5,7 +5,7 @@ const AllCharsDiv=styled.div`
     display: flex;
     flex-flow: row wrap;
     justify-content: space-evenly;
-    background-image: url("/4aa99b6ad2d2cbc7cb04a41571885a8f.jpg");
+    background-image: /4aa99b6ad2d2cbc7cb04a41571885a8f.jpg;
 `;
 
 const SingleCharDiv=styled.div<{status: string}>`
