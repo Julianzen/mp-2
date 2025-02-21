@@ -5,7 +5,7 @@ import {Character} from "./interfaces/SWdata.ts";
 
 
 const ParentDiv=styled.div`
-    background-image: url("https://mp-2-taupe-one.vercel.app/porg.png");
+    background-image: url("porg.png");
 `;
 const MainDiv=styled.div`
     style: flex;
