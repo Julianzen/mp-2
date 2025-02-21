@@ -5,6 +5,7 @@ import {Character} from "./interfaces/SWdata.ts";
 
 
 const ParentDiv=styled.div`
+    color: black;
      background-image: url("https://mp-2-a7pmpic4x-julians-projects-a65d4a3c.vercel.app/porg.png");
 `;
 const MainDiv=styled.div`
